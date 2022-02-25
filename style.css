@@ -1,0 +1,16 @@
+img {
+  max-width: 12%;
+
+  float: left;
+  padding: 10px;
+
+}
+div{
+  margin: 10px;
+}
+
+summary{
+  color: purple;
+  background-color: rgb(236, 144, 236);
+  padding: 10px;
+}
